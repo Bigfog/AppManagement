@@ -5,8 +5,8 @@
 setting = {
   target:'@string cssSelector',
   BgImg:'@string img-url',
-  radius:'@number 30',
-  targetPersent:'@number 0-100'
+  radius:'@number 笔迹半径 preValue:30',
+  targetPersent:'@number 涂抹面积为targetPersent%时，判定为刮开 preValue:80'
 }
 
 Lottery(setting);
