@@ -9,7 +9,7 @@ setting = {
   targetPersent:'@number 涂抹面积为targetPersent%时，判定为刮开 preValue:80'
 }
 ```
-##使用
+## 使用
 ```javascript
 Lottery(setting);
 ```
